@@ -1,0 +1,70 @@
+CloudNest — Technical Manual
+
+This document helps resolve common technical problems with the CloudNest app.
+
+============================================================
+1. LOGIN PROBLEMS
+============================================================
+"I can't log in."
+- Check that your email address is typed correctly.
+- Use "Forgot password" on the login screen to reset your password. A reset
+  link is emailed to you and is valid for 1 hour.
+- If you have two-factor authentication (2FA) enabled, enter the 6-digit code
+  from your authenticator app. Codes refresh every 30 seconds.
+- If you see "account locked," you entered the wrong password 5 times. Wait 15
+  minutes or reset your password to unlock the account immediately.
+
+============================================================
+2. INITIAL SETUP
+============================================================
+Installing and signing in:
+1. Download the CloudNest app for your operating system (Windows, macOS,
+   Android, or iOS).
+2. Open the app and sign in with your CloudNest email and password.
+3. Choose a local sync folder. Files placed in this folder sync automatically.
+4. Wait for the first sync to finish. The tray/menu-bar icon turns green when
+   syncing is complete.
+
+Setting up a team (Pro and Enterprise):
+1. Go to Settings > Team.
+2. Invite members by email. They receive an invitation link.
+3. Create shared folders and set each member's permission: view, edit, or admin.
+
+============================================================
+3. SYNCHRONISATION PROBLEMS
+============================================================
+"My files are not syncing."
+- Check the sync status icon. Green = synced, blue = syncing, red = error.
+- Make sure you are connected to the internet.
+- Confirm you have not exceeded your plan's storage limit. If you are over the
+  limit, syncing of new files pauses.
+- Check that the file is inside your chosen sync folder.
+- Very large files (over 5 GB on Basic, 50 GB on Pro/Enterprise) may be
+  rejected. Compress them or upgrade your plan.
+- Restart the app to force a re-sync. If the problem continues, sign out and
+  back in.
+
+"I have a file conflict."
+- A conflict happens when the same file is edited on two devices before syncing.
+- CloudNest keeps both versions and names one "filename (conflicted copy)."
+- Open both, choose the correct one, and delete the other.
+
+============================================================
+4. ERROR CODES
+============================================================
+- ERR_AUTH_401   : Your session expired. Sign out and sign back in.
+- ERR_SYNC_409   : File conflict. See the conflict instructions above.
+- ERR_QUOTA_507  : Storage full. Free up space or upgrade your plan.
+- ERR_NET_503    : CloudNest servers are temporarily unavailable. Wait a few
+                   minutes and try again. Check status.cloudnest.example for
+                   outage updates.
+- ERR_FILE_413   : File too large for your plan. Compress it or upgrade.
+- ERR_PERM_403   : You do not have permission for this folder. Ask the folder
+                   admin to grant access.
+
+============================================================
+5. WHEN TO ESCALATE
+============================================================
+If an error code persists after trying these steps, or if data appears to be
+lost, create a support ticket. A human agent will investigate and respond
+within 24 hours.

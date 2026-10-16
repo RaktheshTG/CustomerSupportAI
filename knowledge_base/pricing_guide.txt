@@ -1,0 +1,62 @@
+CloudNest — Pricing Guide
+
+CloudNest offers three subscription plans. All prices are in US dollars and are
+billed per month. Annual billing is available at a 20% discount (pay for 10
+months, get 12).
+
+------------------------------------------------------------
+BASIC PLAN — $9 per month
+------------------------------------------------------------
+Best for: individuals.
+- 100 GB of secure storage
+- Sync across up to 2 devices
+- File sharing by link
+- Email support (24-hour response)
+- 30-day file version history
+
+------------------------------------------------------------
+PRO PLAN — $29 per month
+------------------------------------------------------------
+Best for: small teams (up to 10 people).
+- 1 TB of secure storage
+- Sync across unlimited devices
+- Shared team folders
+- Advanced permissions (view / edit / admin)
+- Priority email and chat support
+- 180-day file version history
+
+------------------------------------------------------------
+ENTERPRISE PLAN — $99 per month
+------------------------------------------------------------
+Best for: large organisations.
+- Unlimited storage
+- Unlimited devices and users
+- Single sign-on (SSO) and admin console
+- Audit logs and compliance reports
+- Dedicated account manager
+- Phone, chat, and email support
+- 1-year file version history
+
+------------------------------------------------------------
+BILLING RULES
+------------------------------------------------------------
+- Subscriptions renew automatically each month on the purchase date.
+- Payment methods: major credit cards and PayPal.
+- Upgrades are charged immediately and prorated for the current cycle.
+- Downgrades apply at the next billing cycle.
+- A full refund is available within 30 days of any charge (see the company
+  policy document for the full refund policy).
+- Refunds over $100 require human manager approval before processing.
+- Failed payments are retried for 7 days; after that the account is paused until
+  payment succeeds.
+
+------------------------------------------------------------
+COMMON PRICING QUESTIONS
+------------------------------------------------------------
+- "Can I try CloudNest for free?" Yes. Every plan includes a 14-day free trial.
+  No charge is made until the trial ends.
+- "What happens to my files if I downgrade?" Files are kept. If you exceed the
+  storage limit of the lower plan, you can still download files but cannot
+  upload new ones until you are under the limit.
+- "Do you offer discounts?" Annual billing saves 20%. Enterprise customers can
+  contact sales for volume pricing.

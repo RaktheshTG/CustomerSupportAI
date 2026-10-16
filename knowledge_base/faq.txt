@@ -1,0 +1,56 @@
+CloudNest — Frequently Asked Questions
+
+Q: What is CloudNest?
+A: CloudNest is a secure file-sync and team collaboration app. It stores your
+   files, syncs them across your devices, and lets you share folders with
+   teammates.
+
+Q: How much does CloudNest cost?
+A: There are three plans: Basic at $9/month, Pro at $29/month, and Enterprise at
+   $99/month. Annual billing saves 20%. See the pricing guide for details.
+
+Q: Is there a free trial?
+A: Yes, every plan has a 14-day free trial. You are not charged until the trial
+   ends.
+
+Q: How do I get a refund?
+A: You can request a full refund within 30 days of a charge. Refunds are
+   returned to your original payment method within 5 to 10 business days.
+   Refunds over $100 are reviewed by a support manager first.
+
+Q: How do I cancel my subscription?
+A: You can cancel any time. Your account stays active until the end of the
+   current paid period, and no further charges are made. A human agent reviews
+   every cancellation before it is finalised.
+
+Q: How many devices can I use?
+A: Basic supports 2 devices. Pro and Enterprise support unlimited devices.
+
+Q: How much storage do I get?
+A: Basic includes 100 GB, Pro includes 1 TB, and Enterprise includes unlimited
+   storage.
+
+Q: Is my data safe?
+A: Yes. CloudNest encrypts files both at rest and in transit, and never sells
+   customer data.
+
+Q: I forgot my password. What do I do?
+A: Use "Forgot password" on the login screen. A reset link is emailed to you and
+   is valid for 1 hour.
+
+Q: Why are my files not syncing?
+A: The most common reasons are no internet connection, being over your storage
+   limit, or a file that is too large for your plan. See the technical manual
+   for full steps.
+
+Q: Can I share files with people who don't have CloudNest?
+A: Yes. You can create a share link that anyone can open, even without a
+   CloudNest account.
+
+Q: How do I contact a human?
+A: If the assistant cannot help, it will create a support ticket and a human
+   agent will follow up within 24 hours. Human agents work Monday to Friday,
+   9 AM to 6 PM.
+
+Q: What operating systems are supported?
+A: CloudNest works on Windows, macOS, Android, and iOS.

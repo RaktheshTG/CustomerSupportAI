@@ -1,0 +1,60 @@
+CloudNest — Company Policies
+
+ABOUT CLOUDNEST
+CloudNest is a software company that provides a secure file-sync and team
+collaboration application. Customers use CloudNest to store files, sync them
+across devices, and share folders with teammates. These policies apply to all
+CloudNest plans (Basic, Pro, and Enterprise).
+
+SUPPORT HOURS AND RESPONSE TIME
+- Automated AI support (chat and email) is available 24 hours a day, 7 days a
+  week.
+- Human support agents are available Monday to Friday, 9:00 AM to 6:00 PM
+  (customer's local time).
+- CloudNest guarantees a first response to every support request within 24
+  hours.
+
+REFUND POLICY
+- Customers may request a full refund within 30 days of their purchase or
+  renewal date. This is the "30-day refund window."
+- Refunds requested within the 30-day window are approved in full.
+- After 30 days, refunds are not provided, except when CloudNest has a
+  documented service outage that affected the customer. In that case a partial
+  or full refund may be granted at CloudNest's discretion.
+- Refunds are returned to the original payment method within 5 to 10 business
+  days.
+- Refunds over $100 require review by a human support manager before they are
+  issued.
+
+CANCELLATION POLICY
+- Customers may cancel their subscription at any time.
+- After cancellation, the account remains active until the end of the current
+  paid billing period. No further charges are made after that.
+- Cancelling does not automatically delete stored files. Files remain available
+  until the end of the paid period and are then archived for 30 days before
+  deletion.
+- Because cancellation ends a paid service, every cancellation request is
+  reviewed by a human agent before it is finalised.
+
+PLAN CHANGES
+- Upgrades (for example Basic to Pro) take effect immediately. The customer is
+  charged a prorated amount for the remainder of the billing cycle.
+- Downgrades take effect at the start of the next billing cycle, so the customer
+  keeps their current features until then.
+
+PRIVACY AND DATA
+- CloudNest encrypts all stored files at rest and in transit.
+- CloudNest never sells customer data.
+- Customers may request export or deletion of their data by contacting support.
+- Deleted data is permanently removed within 30 days of the request.
+
+ACCEPTABLE USE
+- CloudNest may not be used to store or share illegal content.
+- Accounts found violating the acceptable use policy may be suspended after a
+  warning.
+
+ESCALATION
+- If the AI assistant cannot answer a question reliably, or a customer is
+  dissatisfied, the request is escalated to a human support agent and a support
+  ticket is created. The customer is told a human will follow up within 24
+  hours.

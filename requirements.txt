@@ -1,0 +1,10 @@
+# CustomerSupportAI dependencies (Python 3.12)
+# Install:  pip install -r requirements.txt
+
+langgraph
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+chromadb
+graphviz
